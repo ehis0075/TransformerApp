@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\csharp_project\transformer\src\Transformer\bin\Debug\net5.0\Transformer.exe
+C:\Users\user\Desktop\csharp_project\transformer\src\Transformer\bin\Debug\net5.0\Transformer.deps.json
+C:\Users\user\Desktop\csharp_project\transformer\src\Transformer\bin\Debug\net5.0\Transformer.runtimeconfig.json
+C:\Users\user\Desktop\csharp_project\transformer\src\Transformer\bin\Debug\net5.0\Transformer.runtimeconfig.dev.json
+C:\Users\user\Desktop\csharp_project\transformer\src\Transformer\bin\Debug\net5.0\Transformer.dll
+C:\Users\user\Desktop\csharp_project\transformer\src\Transformer\bin\Debug\net5.0\ref\Transformer.dll
+C:\Users\user\Desktop\csharp_project\transformer\src\Transformer\bin\Debug\net5.0\Transformer.pdb
+C:\Users\user\Desktop\csharp_project\transformer\src\Transformer\obj\Debug\net5.0\Transformer.csprojAssemblyReference.cache
+C:\Users\user\Desktop\csharp_project\transformer\src\Transformer\obj\Debug\net5.0\Transformer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\csharp_project\transformer\src\Transformer\obj\Debug\net5.0\Transformer.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\csharp_project\transformer\src\Transformer\obj\Debug\net5.0\Transformer.AssemblyInfo.cs
+C:\Users\user\Desktop\csharp_project\transformer\src\Transformer\obj\Debug\net5.0\Transformer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\csharp_project\transformer\src\Transformer\obj\Debug\net5.0\Transformer.dll
+C:\Users\user\Desktop\csharp_project\transformer\src\Transformer\obj\Debug\net5.0\ref\Transformer.dll
+C:\Users\user\Desktop\csharp_project\transformer\src\Transformer\obj\Debug\net5.0\Transformer.pdb
+C:\Users\user\Desktop\csharp_project\transformer\src\Transformer\obj\Debug\net5.0\Transformer.genruntimeconfig.cache
